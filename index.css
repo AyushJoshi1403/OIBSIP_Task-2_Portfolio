@@ -213,10 +213,11 @@ img{
 }
 .home__img{
   position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 370px;
-  height: 400px;
+  margin-bottom: 140px;
+  /* right: 0; */
+  /* bottom: 0; */
+  /* width: 370px; */
+  /* height: 400px; */
 }
 
 /*BUTTONS*/
@@ -338,7 +339,7 @@ img{
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  margin: auto;
 }
 
 /* ===== FOOTER =====*/
